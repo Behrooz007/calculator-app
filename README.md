@@ -5,12 +5,10 @@ Designed and developed an advanced Calculator App using Java in Android Studio. 
 
 
 ## 📷 Screenshots
-
-<table>
-  <tr>
-    <td><img src="screenshots/calculator.gif" width="300" height="200" alt="Image 2"></td>
-  </tr>
-</table>
+ 
+ <p align="center">
+  <img src="screenshots/calculator.gif" style="max-width: 100%; height: auto;">
+</p>
 
 
 
